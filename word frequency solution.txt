@@ -1,0 +1,2 @@
+This is a word frequency problem 
+{a=1, problem=1, This=1, is=1, word=1, frequency=1}
